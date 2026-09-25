@@ -44,15 +44,6 @@ I am a physicist currently pursuing my Master’s in Analytics and Artificial In
 
 ---
 
-## 🚀 Featured Projects
-
-### [Project Name 1](https://github.com/your-username/project-1)
-> Short 1-2 sentence description of what the project does and the technology stack used.
-- **Key Features:** Machine learning model deployment, data visualization dashboard.
-- **Tech Stack:** `Python` `Scikit-Learn` `Pandas`
-
----
-
 ## 📬 Contact Information
 
 - **LinkedIn:** [Buenaventura Martínez Valerio](https://www.linkedin.com/in/buenaventura-martinez-valerio-7bb6583a5/)
