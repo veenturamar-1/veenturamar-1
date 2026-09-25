@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**veenturamar-1/veenturamar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Buenaventura Martínez Valerio 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am a physicist currently pursuing my Master’s in Analytics and Artificial Intelligence at ESMT Berlin. Driven by analytical rigor and a passion for data-driven problem solving, I bridge the gap between complex physical modeling and modern machine learning techniques to build intelligent systems and also to extract insights.
+
+- 🎓 **Education:** M.Sc. in Analytics & AI at ESMT Berlin | B.Sc. in Physics (UCM, Madrid)
+- 🔭 **Focus Areas:** Machine Learning, Predictive Analytics, Data Science
+- 📍 **Location:** Berlin, Germany
+
+---
+
+## 🛠 Skills & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Developer Tools & Software
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [Project Name 1](https://github.com/your-username/project-1)
+> Short 1-2 sentence description of what the project does and the technology stack used.
+- **Key Features:** Machine learning model deployment, data visualization dashboard.
+- **Tech Stack:** `Python` `PyTorch` `Streamlit`
+
+### [Project Name 2](https://github.com/your-username/project-2)
+> Short 1-2 sentence description of what the project does and the technology stack used.
+- **Key Features:** Quantitative modeling and statistical analysis.
+- **Tech Stack:** `R` `Pandas` `Scikit-Learn`
+
+---
+
+## 📬 Contact Information
+
+- **LinkedIn:** [Buenaventura Martínez Valerio](https://www.linkedin.com/in/buenaventura-martinez-valerio-7bb6583a5/)
+- **Email:** buenaventura.martinez@esmt.org
+- **Location:** Berlin, Germany
